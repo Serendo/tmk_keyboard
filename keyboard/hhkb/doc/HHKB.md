@@ -8,7 +8,7 @@ Controller PCB
                 http://documentation.renesas.com/eng/products/mpumcu/rej03b0192_38k0ds.pdf
 
     (HHKB_controller.jpg)
-    ![Image of HHKB Controller](https://github.com/Serendo/tmk_keyboard/blob/master/keyboard/hhkb/doc/HHKB_img/HHKB_controller.jpg?raw=true)
+    ![Image of HHKB Controller](https://github.com/Serendo/tmk_keyboard/blob/master/keyboard/hhkb/doc/HHKB_img/HHKB_controller.jpg)
 
 Keyswitch PCB
 -------------
