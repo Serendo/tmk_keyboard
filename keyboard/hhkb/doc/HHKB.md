@@ -18,10 +18,10 @@ Keyswitch PCB
                 https://www.spezial.com/doc/rohm-a/bu9831.pdf
     TP1683/4    Capacitive Sensing controller: no datasheet available.
 
-    (HHKB_keyswitch.jpg)
+![switch](https://raw.githubusercontent.com/Serendo/tmk_keyboard/master/keyboard/hhkb/doc/HHKB_img/HHKB_keyswitch.jpg)
 
     Topre original chip?
-    (HHKB_TP1684.jpg)
+![TP](https://raw.githubusercontent.com/Serendo/tmk_keyboard/master/keyboard/hhkb/doc/HHKB_img/HHKB_TP1684.jpg)
 
 
 Connector Cable
@@ -55,7 +55,7 @@ Vcc and GND use 3(2) lines each, other lines are for keyboard signaling.
     NOTE: 1KOhm didn't work as pullup resistor on KEY. AVR internal pullup or 10KOhm resistor was OK.
     NOTE: JP has two HC4051(Z2,Z3) and line 5, 6 and 7 are connected to both of them.
 
-    (HHKB_connector.jpg)
+![conn](https://raw.githubusercontent.com/Serendo/tmk_keyboard/master/keyboard/hhkb/doc/HHKB_img/HHKB_connector.jpg)
 
 
 Keyswitch matrix
