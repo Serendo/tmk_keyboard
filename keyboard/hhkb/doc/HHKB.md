@@ -6,9 +6,7 @@ Controller PCB
 --------------
     M38K07M4    Renesas MCU with USB function
                 http://documentation.renesas.com/eng/products/mpumcu/rej03b0192_38k0ds.pdf
-
-    (HHKB_controller.jpg)
-    ![Image of HHKB Controller](https://raw.githubusercontent.com/Serendo/tmk_keyboard/master/keyboard/hhkb/doc/HHKB_img/HHKB_controller.jpg)
+![HHKB](https://raw.githubusercontent.com/Serendo/tmk_keyboard/master/keyboard/hhkb/doc/HHKB_img/HHKB_controller.jpg)
 
 Keyswitch PCB
 -------------
